@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Kyle Arbide
+title: Kyle Arbide's Portfolio
 description: Kyle Arbide is a Graduate Student at George Washington University.
 keywords: statistics, data analytics
 ---
