@@ -21,7 +21,7 @@ M.S. Data Analytics
 
 
 #### <a name="cvandresume"></a>Resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}assets/RESUME- Arbide, Kyle.pdf)
 
 ---
 
