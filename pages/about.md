@@ -4,20 +4,20 @@ title: about
 description: Benjamin Harvey is...
 ---
 
-#### <a name="currentposition"></a>current position
-{Insert text here}
+#### <a name="currentposition"></a>Current Position
+Statistic Intern at Base Operations
 
 
 #### <a name="previousposition"></a>previous positions
-{Insert text here}
-
-
-#### <a name="researchbackground"></a>research background
-{Insert text here}
-
+Summer Intern with JRD and Associates
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+University of Miami Aug 2017 - May 2021
+B.S. Industrial Engineering
+V.P. Club Waterpolo
+
+George Washington University
+M.S. Data Analytics
 
 
 #### <a name="cvandresume"></a>cv and resume
