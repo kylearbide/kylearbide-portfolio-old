@@ -8,10 +8,10 @@ description: Benjamin Harvey is...
 Statistic Intern at Base Operations
 
 
-#### <a name="previousposition"></a>previous positions
+#### <a name="previousposition"></a>Previous Positions
 Summer Intern with JRD and Associates
 
-#### <a name="education"></a>ecucation
+#### <a name="education"></a>Education
 University of Miami Aug 2017 - May 2021
 B.S. Industrial Engineering
 V.P. Club Waterpolo
@@ -20,7 +20,7 @@ George Washington University
 M.S. Data Analytics
 
 
-#### <a name="cvandresume"></a>cv and resume
+#### <a name="cvandresume"></a>Resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
 
 ---
