@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: My Intro
 ---
 
 #### <a name="currentposition"></a>Current Position
