@@ -1,10 +1,11 @@
-## Karl Broman&rsquo;s website
+## Kyle Arbide's website
 
-See [kbroman.org](http://kbroman.org).
+Link [kylearbide.github.io]("kylearbide.github.io")
 
----
+**About Me:**
 
-My parts of this web site are licensed under
-[CC BY](http://creativecommons.org/licenses/by/3.0/).
+First Year Graduate Student at George Washington University
 
-[![CC BY](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+Pursuing a Masters in Data Analytics
+
+Currently Employed as a Statstics Intern at Base Operations
