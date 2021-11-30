@@ -15,13 +15,13 @@ title: Cryptocurrency Market Analysis Project
 A comparitave analysis on cryptocurrencies and their market coorelation. <!--<br/>
 see Broman (2015) Genetics 199:359-361-->
 
-[![Time Series Analysis](../icons64/CryptoTimeSeries.png)]
+![Time Series Analysis](../icons64/CryptoTimeSeries.png)
 <!--[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf) --->
 <!--[![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts) --->
 
-[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+<!--[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
 Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
 matrix; click a pixel and the corresponding scatterplot is shown on
-the right.
+the right. -->
