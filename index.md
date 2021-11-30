@@ -34,7 +34,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="pages/icons16/GWLogoSized.png" alt="GW Data Analytics" title="GW Data Analytics"/>
     </a>
   </td>
   <td class="right">
