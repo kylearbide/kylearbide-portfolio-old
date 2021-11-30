@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Kyle Arbide
 ---
 
 <div class="navbar">
