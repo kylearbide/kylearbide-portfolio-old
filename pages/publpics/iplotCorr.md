@@ -12,9 +12,10 @@ title: Cryptocurrency Market Analysis Project
   </div>
 </div>
 
-[R/qtlcharts](http://kbroman.org/qtlcharts), A comparitave analysis on cryptocurrencies and their market coorelation. <!--<br/>
+A comparitave analysis on cryptocurrencies and their market coorelation. <!--<br/>
 see Broman (2015) Genetics 199:359-361-->
-[![PubMed](../icons64/CryptoTimeSeries.png)]
+
+[![Time Series Analysis](../icons64/CryptoTimeSeries.png)]
 <!--[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf) --->
 <!--[![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts) --->
 
