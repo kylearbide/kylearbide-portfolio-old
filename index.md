@@ -39,7 +39,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+        <img src="pages/icons16/BaseOpsLogoSized.png.png" alt="Base Operations" title="Base Operations"/>
     </a>
   </td>
 </tr>
