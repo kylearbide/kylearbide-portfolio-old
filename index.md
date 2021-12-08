@@ -20,12 +20,12 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
+    <a href="pages/publpics/CryptoTimeSeries.html">
        <img src="pages/icons16/CryptoTimeSeriesSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
+    <a href="pages/publpics/GolfDataAnalysis.html">
         <img src="pages/icons16/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
     </a>
   </td>
