@@ -12,8 +12,11 @@ title: Cryptocurrency Market Analysis Project
   </div>
 </div>
 
-A comparitave analysis on cryptocurrencies and their market coorelation. <!--<br/>
-see Broman (2015) Genetics 199:359-361-->
+**A Comparitave Analysis on Cryptocurrencies and Their Market Coorelation.
+
+This analysis dives in depth on the market trends of cryptocurrencies, specifically Bitcoin Ethereum, and Dogecoin. We also look into the S&P500, with the goal of determining if cryptocurries can act as a safehaven from big market downturns. Our presentation and report go in depth on this topic, but below you will find a short summary of our analyses and results.
+
+
 
 ![Time Series Analysis](../icons64/CryptoTimeSeries.png)
 <!--[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf) --->
