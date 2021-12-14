@@ -16,9 +16,13 @@ title: Cryptocurrency Market Analysis Project
 
 This analysis dives in depth on the market trends of cryptocurrencies, specifically Bitcoin Ethereum, and Dogecoin. We also look into the S&P500, with the goal of determining if cryptocurries can act as a safehaven from big market downturns. Our presentation and report go in depth on this topic, but below you will find a short summary of our analyses and results.
 
+[Report ![Crypto](/pages/icons16/pdf-icon.png)](/assets/CryptoFiles/Crypto_Report.pdf)
 
+[Presentation ![Crypto](/pages/icons16/ppt-icon.png)](/assets/CryptoFiles/Crypto_Rres.pdf)
 
 ![Time Series Analysis](../icons64/CryptoTimeSeries.png)
+
+
 <!--[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf) --->
 <!--[![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts) --->
 
