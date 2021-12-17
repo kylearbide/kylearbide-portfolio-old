@@ -21,7 +21,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/CryptoTimeSeries.html">
-       <img src="assets/CryptoFiles/Images/CryptoTimeSeriesSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
+       <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
   </td>
   <td class="right">
