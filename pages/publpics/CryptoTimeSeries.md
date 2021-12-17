@@ -20,15 +20,8 @@ This analysis dives in depth on the market trends of cryptocurrencies, specifica
 
 [Presentation ![Crypto](/pages/icons16/ppt-icon.png)](/assets/CryptoFiles/Crypto_Rres.pdf)
 
-![Time Series Analysis](../icons64/CryptoTimeSeries.png)
+![Time Series Analysis](/assets/CryptoFiles/Images/CryptoTimeSeries.png)
+
+Above there are some basic time series charts depicting the closing price of our markets since 2014. The S&P shows consistent growth over time while the cryptocurrencies see most of their growth after 2020. The red line marks the date of Elon Musk's famous "Gamestonk!!" tweet which sent Dogecoin and other memestock prices soaring.
 
 
-<!--[![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf) --->
-<!--[![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts) --->
-
-<!--[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-
-Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
-matrix; click a pixel and the corresponding scatterplot is shown on
-the right. -->
