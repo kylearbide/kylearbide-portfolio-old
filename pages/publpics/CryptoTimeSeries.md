@@ -27,3 +27,5 @@ Above there are some basic time series charts depicting the closing price of our
 ![Significant Drops](/assets/CryptoFiles/Images/SignificantDrops.png)
 
 This analysis seperates the days following a significant drop in the market. If cryptocurrencies act as a safehaven during market lows, they should show consistent growth during this period. However, the histogram above shows that Bitcoin and Ethereum also see some large drops during this period, sugguesting they occasioanlly follow the market during significant downturns.  
+
+For more advanced analysis, regression, and ANOVA model building, view the full report and presentation linked at the top of the page.
