@@ -20,8 +20,10 @@ This analysis dives in depth on the market trends of cryptocurrencies, specifica
 
 [Presentation ![Crypto](/pages/icons16/ppt-icon.png)](/assets/CryptoFiles/Crypto_Rres.pdf)
 
-![Time Series Analysis](/assets/CryptoFiles/Images/CryptoTimeSeries.png)
+![Time Series Analysis](/assets/CryptoFiles/Images/CryptoTimeSeriesNew.png)
 
 Above there are some basic time series charts depicting the closing price of our markets since 2014. The S&P shows consistent growth over time while the cryptocurrencies see most of their growth after 2020. The red line marks the date of Elon Musk's famous "Gamestonk!!" tweet which sent Dogecoin and other memestock prices soaring.
 
+![Significant Drops](/assets/CryptoFiles/Images/SignificantDrops.png)
 
+This analysis seperates the days following a significant drop in the market. If cryptocurrencies act as a safehaven during market lows, they should show consistent growth during this period. However, the histogram above shows that Bitcoin and Ethereum also see some large drops during this period, sugguesting they occasioanlly follow the market during significant downturns.  
