@@ -26,4 +26,8 @@ As sports data becomes widely available online, the popularity of sports analysi
 
 These two figures provide player and tournament rankings using average round scores. We notice the field generally scores high in the US Open and PGA Championship, so perhaps these are the more difficult courses. The same observation can be made looking at the player round scores, the players in green could be considered some of the best, while those in red may be some of the worst in this dataset.
 
+![PlayerCompVisuals](../../assets/PGAFiles/PlayerComp.png)
 
+Above, the dendrogram and spider plot are used as advanced visuals for player comparison. The dendrogram uses tournament results to compare players based on their 2020 season performances. The full report contains this visuals using both Euclidean and cosine distances, and also compares tournaments based on the player performance. The spider plot uses player statistics, mostly measured by strokes gained and greens in regulation, to compare players based on their skills. The visual above sugguests Koepka outperforms Fowler in the fairway and on the green. 
+
+To see more visuals like those above, or to see the regression model building and results, see the full report and codesheets linked above.
