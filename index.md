@@ -26,7 +26,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/GolfDataAnalysis.html">
-        <img src="pages/icons16/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
+        <img src="assets/PGAFiles/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
     </a>
   </td>
 </tr>
