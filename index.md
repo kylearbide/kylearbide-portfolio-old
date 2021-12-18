@@ -32,7 +32,7 @@ keywords: statistics, data analytics
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
+    <a href="pages/courses.html">
         <img src="pages/icons16/GWLogoSized.png" alt="GW Data Analytics" title="GW Data Analytics"/>
     </a>
   </td>
