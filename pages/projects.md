@@ -27,8 +27,7 @@ As sports data becomes widely available online, the popularity of sports analysi
 
 ### <a name="Crypto"></a>Cryptocurrency Market Analysis
 
-
-##### EMSE 6574   Fall 2021   Maksim Tsvetovat
+##### EMSE 6574 ,  Fall 2021 ,  Maksim Tsvetovat
 
 [Report Page](/pages/publpics/CryptoTimeSeries.md)
 
