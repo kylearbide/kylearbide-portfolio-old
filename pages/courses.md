@@ -23,6 +23,16 @@ This course was taught by Dr. Benjamin Harvey. The goals for this course include
 - [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/SEAS6401)
 - [Project](/pages/publpics/GolfDataAnalysis.md)
 
+
+
+#### Programming for Analytics (EMSE6574; Fall, 2021; Grade: A)
+
+This course was taught by Maksim Tsvetovat. Introduction to programming for data analytics using the Python programming language. Topics covered include introduction to the Python programming language, structured program design in Python, data structures for analytics in Python, visualization/plotting, file I/O, basic data analytics methods, data acquisition from real-world sources, database storage and retrieval, working with Python libraries including NumPy, SciPy, and Pandas. The more advanced topics covered include regression, support vector machines, and NLP. My final project for this course was a time series analysis of cryptocurrencies, their market coorelation, and their relationship with the S&P 500.
+
+
+- [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/EMSE6574)
+- [Project](/pages/publpics/CryptoTimeSeries.md)
+
 ---
 
 ### <a name="old"></a>Previous Courses
