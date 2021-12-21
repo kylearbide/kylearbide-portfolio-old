@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Course Work
 description: Kyle Arbide's Courses
 ---
 
