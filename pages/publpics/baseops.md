@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Tian et al. (2015) Fig 4
+title: Base Operations
 ---
 
 <div class="navbar">
