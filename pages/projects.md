@@ -10,8 +10,8 @@ description: Kyle Arbide's Projects
         <ul class="nav">
             <li><a href="#PGA">PGA Tour Analysis</a></li>
             <li><a href="#Crypto">Cryptocurrency Market Analysis</a></li>
-            
-        
+        </ul>    
+    </div>    
 </div>
 
 
