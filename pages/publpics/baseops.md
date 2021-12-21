@@ -12,7 +12,7 @@ title: Base Operations
   </div>
 </div>
 
-![Logo](/assets/baseops/BaseOpsDarkSized.png)
+![Logo](/pages/icons16/BaseOpsLogoSized.png)
 
 ## Statistics Intern - Base Operations 
 
