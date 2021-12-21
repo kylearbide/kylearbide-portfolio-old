@@ -24,3 +24,10 @@ Base Operations helps companies keep their people and operations secure with Mic
 
 **Position Details**
 
+  - Working with the Product Development Team to create statistical models to improve the crime visualization platform
+  - Indetifying trends and relationships in the crime data
+  - Locating irregualrities with crime reporting 
+  - Creating crime reports for cities and neighborhoods by autogenerating charts from historical and recent data
+  - Using OpenSearch to query news articles and locate crime incidents
+  - All analysis is done through Python or R
+ 
