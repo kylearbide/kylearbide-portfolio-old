@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Presentations
-description: Student's Presentations in Data Analytics
+description: Kyle Arbide's Presentations in Data Analytics
 ---
 
 
-###  2021
+###  Fall 2021
 
 #### Data Analytics Practicum (SEAS6401) Final Project: PGA Tour Analysis and Prediction
 <br/>&nbsp; &nbsp; &nbsp; Slides and Code:
