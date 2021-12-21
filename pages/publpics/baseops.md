@@ -13,7 +13,7 @@ title: Base Operations
 </div>
 
 <p align="center">
-  <img src="pages/icons16/BaseOpsLogoSized.png" alt="Base Operations" title="Base Operations"/>
+  <img src="pages/icons16/BaseOpsSized.png" alt="Base Operations" title="Base Operations"/>
 </p>
 
 ## Statistics Intern - Base Operations 
