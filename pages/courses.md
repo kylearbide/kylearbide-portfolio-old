@@ -35,7 +35,8 @@ This course was taught by Maksim Tsvetovat. Introduction to programming for data
 
 #### Data Analysis for Engineers and Scientists (EMSE6765; Fall, 2021; Grade: A)
 
-This course was taught by Dr. Johan René van Dorp. The topic in this course included estimation, hypothesis testing, and goodness-of-fit testing for univariate data. Multivariate topics include Hotelling T-squared hypothesis testing, regression analysis, principal component analysis, and analysis of variance. Assignments for this class must be kept private, but the final papers included an in-depth regrssion analysis and principal component analysis. 
+This course was taught by Dr. Johan René van Dorp. The topic in this course included estimation, hypothesis testing, and goodness-of-fit testing for univariate data. Multivariate topics include Hotelling T-squared hypothesis testing, regression analysis, principal component analysis, and analysis of variance. Assignments for this class must be kept private, but the final papers included an in-depth regrssion analysis and principal component analysis.
+
 ---
 
 ### <a name="old"></a>Previous Courses
