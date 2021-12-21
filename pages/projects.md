@@ -1,6 +1,6 @@
 ---
 layout: page
-title: labs & assignments
+title: Projects
 description: Kyle Arbide's Projects
 ---
 
