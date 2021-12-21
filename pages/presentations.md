@@ -17,7 +17,8 @@ description: Student's Presentations in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; Slides and Code:
 [![pdf](icons16/pdf-icon.png)](/assets/CryptoFiles/Crypto_Pres_2.pdf)
 [![github](icons16/github-icon.png)](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/EMSE6574/CryptoProject)<br/>
-&nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp;
+
 ---
 
 
