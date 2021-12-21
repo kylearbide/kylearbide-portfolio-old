@@ -18,7 +18,7 @@ description: Kyle Arbide's Projects
 
 ###  <a name="PGA"></a>PGA Tour Analysis
 
-#### SEAS 6401   Fall 2021    Dr. Harvey 
+#### SEAS 6401 ,  Fall 2021 ,   Dr. Harvey
 
 [Report Page](/pages/publpics/GolfDataAnalysis.md)
 
