@@ -7,7 +7,7 @@ title: PGA TOUR ANALYSIS
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="CryptoTimeSeries.html">prev</a></li>
-          <li><a href="samplemixups_fig7.html">next</a></li>
+          <li><a href="baseops.html">next</a></li>
       </ul>
   </div>
 </div>
