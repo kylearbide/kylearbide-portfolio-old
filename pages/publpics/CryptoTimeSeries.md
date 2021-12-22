@@ -12,7 +12,7 @@ title: Cryptocurrency Market Analysis Project
   </div>
 </div>
 
-##Comparitave Analysis on Cryptocurrencies and S&P500 Market Trends
+## Comparitave Analysis on Cryptocurrencies and S&P500 Market Trends
 
 This analysis dives in depth on the market trends of cryptocurrencies, specifically Bitcoin Ethereum, and Dogecoin. We also look into the S&P500, with the goal of determining if cryptocurries can act as a safehaven from big market downturns. Our presentation and report go in depth on this topic, but below you will find a short summary of our analyses and results.
 
