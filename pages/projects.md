@@ -17,7 +17,7 @@ description: Kyle Arbide's Projects
 
 ###  <a name="PGA"></a>PGA Tour Analysis
 
-#### SEAS 6401 ,  Fall 2021 ,   Dr. Harvey
+##### SEAS 6401 ,  Fall 2021 ,   Dr. Harvey
 
 [Report Page](/pages/publpics/GolfDataAnalysis.md)
 
@@ -27,7 +27,7 @@ As sports data becomes widely available online, the popularity of sports analysi
 
 ### <a name="Crypto"></a>Cryptocurrency Market Analysis
 
-#### EMSE 6574 ,  Fall 2021 ,  Maksim Tsvetovat
+##### EMSE 6574 ,  Fall 2021 ,  Maksim Tsvetovat
 
 [Report Page](/pages/publpics/CryptoTimeSeries.md)
 
