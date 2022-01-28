@@ -1,6 +1,6 @@
 ## Kyle Arbide's website
 
-Link [kylearbide.github.io]("https://kylearbide.github.io")
+Link [kylearbide.github.io](https://kylearbide.github.io)
 
 **About Me:**
 
