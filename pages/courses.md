@@ -18,11 +18,16 @@ description: Kyle Arbide's Courses
 
 #### Intro to Big Data and Analytics (CSCI 6444; Spring, 2022)
 
-This course is taught by Professor Stephen Kaisler. The objectives of this course include introducing Big Data concepts, issues, and challenges, working with Big Data tools, and understanding advanced analytics including complex problems facing business, society, and engineering. The assignments in this course consist of Graph Analytics, Clustering & Predictive Analysis, and Text Analytics. For my term paper, I will be conducting a literature review on how Big Data is used in crime analysis and prediction.
+This course was taught by Professor Stephen Kaisler. The objectives of this course included introducing Big Data concepts, issues, and challenges, working with Big Data tools, and understanding advanced analytics including complex problems facing business, society, and engineering. The assignments in this course consisted of Graph Analytics, Clustering & Predictive Analysis, and Text Analytics. For my term paper, I conducted a literature review on how Big Data is used in crime analysis and forecasting.
+
+- [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/CSCI6444)
+- [Term Paper](https://github.com/kylearbide/kylearbide.github.io/tree/master/Assignments/CSCI6444)
 
 #### Database Management Systems for Data Analytics (CSCI 6907; Spring, 2022)
 
-This course is taught by Dr. Joel Klein. The learning outcomes for this couse include learning the difference between SQL and NoSQL databases, understanding what database best suit a problem, manipulating data in each type of database, integration of databases into data pipelines, and exploring the benefits of cloud services. The assignments for this course include one project for each MondoDB, MySQL, and Graph databases section. The final project has yet to be announced.
+This course was taught by Dr. Joel Klein. The learning outcomes for this couse include learning the difference between SQL and NoSQL databases, understanding what database best suit a problem, manipulating data in each type of database, integration of databases into data pipelines, and exploring the benefits of cloud services. The assignments for this course include one project for each MondoDB, PostgresSQL, and Arango databases. For my final project, I tranformed a dataset of reddit posts and comments into a graph representation using ArangoDB and Docker.
+
+-[Project](https://gitlab.com/c6831/2022_spring/kyle_reddit_graph_db)
 
 #### Applied Machine Learning Analysis (EMSE 6575; Spring, 2022)
 
