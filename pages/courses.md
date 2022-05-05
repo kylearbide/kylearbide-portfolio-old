@@ -26,7 +26,10 @@ This course is taught by Dr. Joel Klein. The learning outcomes for this couse in
 
 #### Applied Machine Learning Analysis (EMSE 6575; Spring, 2022)
 
-This course is taught by Dr. Benjamin Harvey. The learning outcomes for this couse include selecting and applying the most appropriate algorithms to real world data, evaluating the quality of algorithms, and understanding the principals of each algorithm, to better understand where they to and dont apply. The assignment topics consist of data gathering and processing, regression, classification, unsupervised learning, and deep learning. The final project will be a in depth analysis and model fitting to any dataset of our choice.
+This course was taught by Dr. Benjamin Harvey. The learning outcomes for this couse included selecting and applying the most appropriate algorithms to real world data, evaluating the quality of algorithms, and understanding the principals of each algorithm, to better understand where they to and dont apply. The assignment topics consisted of data gathering and processing, regression, classification, unsupervised learning, and deep learning. Our final project explored using machine learning to gain a competitive edge on forecasting stock prices. Some of our strategies for this project included classification algorithms (logistic regression, naive bayes, and random forest), principal component analysis, and k-fold cross validation. 
+
+- [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/EMSE6575)
+- [Project](https://github.com/kylearbide/Stock-Market-Analysis-EMSE6575)
 
 ---
 
