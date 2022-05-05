@@ -27,7 +27,7 @@ This course was taught by Professor Stephen Kaisler. The objectives of this cour
 
 This course was taught by Dr. Joel Klein. The learning outcomes for this couse include learning the difference between SQL and NoSQL databases, understanding what database best suit a problem, manipulating data in each type of database, integration of databases into data pipelines, and exploring the benefits of cloud services. The assignments for this course include one project for each MondoDB, PostgresSQL, and Arango databases. For my final project, I tranformed a dataset of reddit posts and comments into a graph representation using ArangoDB and Docker.
 
--[Project](https://gitlab.com/c6831/2022_spring/kyle_reddit_graph_db)
+- [Project](https://gitlab.com/c6831/2022_spring/kyle_reddit_graph_db)
 
 #### Applied Machine Learning Analysis (EMSE 6575; Spring, 2022)
 
