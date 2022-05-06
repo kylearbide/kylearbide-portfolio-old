@@ -10,7 +10,7 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="/assets/RESUME_Arbide_Kyle.pdf">Resume</a></li>
           <li><a href="https://github.com/kylearbide">github</a></li>
-          <li><a href="https://www.linkedin.com/in/kyle-arbide-96b6491a1/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/kyle-arbide/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
