@@ -26,7 +26,7 @@ a img {
 
 a:hover img {
     color: darkslateblue;
-    background-color: #e3e4fa;
+    background-color: #C0C0C0;
     text-decoration: none;
     border: solid 2px #e3e4fa;
 }
