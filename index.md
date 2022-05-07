@@ -24,13 +24,15 @@ keywords: statistics, data analytics
        <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
   </td>
+  <td class="left">
+    <h4 id="course_work_front_page">"MS in Data Analytics at George Washington Univeristy, Course Work"</h4>
+  </td>
 </tr>
 <tr>  
   <td class="left">
     <a href="pages/publpics/GolfDataAnalysis.html">
         <img src="assets/PGAFiles/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
     </a>
-    <h4 id="course_work_front_page">"MS in Data Analytics at George Washington Univeristy, Course Work"</h4>
   </td>
 </tr>
 <tr>
