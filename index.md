@@ -26,7 +26,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/courses.html">
-      <h3 id="course_work_front_page" href="pages/courses.html">MS in Data Analytics at George Washington Univeristy, Course Work</h3>
+      <h4 id="course_work_front_page" href="pages/courses.html">MS in Data Analytics at George Washington Univeristy, Course Work</h4>
     </a>
   </td>
 </tr>
@@ -37,7 +37,9 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <h4 id="base_ops_front_page">Internship at Base Operations September 2021 - May 2022</h4>
+    <a href="pages/publpics/baseops.html">
+      <h4 id="base_ops_front_page">Internship at Base Operations September 2021 - May 2022</h4>
+    </a>
   </td>
 </tr>
 <tr>
@@ -47,7 +49,9 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <h4 id="time_series_front_page">Time Series Forecastion and Market Analysis Projects</h4>
+    <a href="pages/publpics/CryptoTimeSeries.html">
+      <h4 id="time_series_front_page">Time Series Forecastion and Market Analysis Projects</h4>
+    </a>
   </td>
 </tr>
 <tr>
@@ -57,7 +61,9 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <h4 id="PGA_front_page">PGA Tour Analysis Project Fall 2021</h4>
+    <a href="pages/publpics/GolfDataAnalysis.html">
+      <h4 id="PGA_front_page">PGA Tour Analysis Project Fall 2021</h4>
+    </a>
   </td>
 </tr>
 </table>
