@@ -28,9 +28,8 @@ a:hover img {
     color: darkslateblue;
     background-color: #ffffff;
     text-decoration: none;
-    border: solid 2px #e3e4fa;
-    transition-duration: 300ms;
-    transition-timing-function: linear;
+    transition-duration: 300;
+    transition-timing-function: ease-in;
     transform: scale(.98);
 }
 
