@@ -46,7 +46,7 @@ table.wide td {
 }
 
 tr {
-  border: solid 2px blue
+  border: solid 2px blue;
 }
 
 td.left {
