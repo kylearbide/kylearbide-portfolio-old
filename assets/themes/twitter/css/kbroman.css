@@ -45,6 +45,10 @@ table.wide td {
     padding-bottom: 20px;
 }
 
+tr {
+  border: solid 2px blue
+}
+
 td.left {
     text-align: left;
 }
