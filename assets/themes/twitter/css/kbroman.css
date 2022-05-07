@@ -15,8 +15,7 @@ a {
 }
 
 a:hover {
-    color: darkslateblue;
-    background-color: #e3e4fa;
+    color: white;
     text-decoration: none;
 }
 
