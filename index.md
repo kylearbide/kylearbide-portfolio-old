@@ -19,7 +19,7 @@ keywords: statistics, data analytics
 
 <table class="wide">
 <tr>
-  <td class="right">
+  <td class="left">
     <a href="pages/publpics/CryptoTimeSeries.html">
        <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
@@ -40,7 +40,7 @@ keywords: statistics, data analytics
   </td>
 </tr>
 <tr>
-  <td class="right">
+  <td class="left">
     <a href="pages/publpics/baseops.html">
         <img src="pages/icons16/BaseOpsLogoSized.png" alt="Base Operations" title="Base Operations"/>
     </a>
