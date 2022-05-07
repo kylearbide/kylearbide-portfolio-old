@@ -15,7 +15,7 @@ keywords: statistics, data analytics
   </div>
 </div>
 
-### <a name="Front Page"></a>Front Page
+### <a name="Front Page"></a>Check Out My Course Work And Projects
 
 <table class="wide">
 <tr>
@@ -30,6 +30,7 @@ keywords: statistics, data analytics
     <a href="pages/publpics/GolfDataAnalysis.html">
         <img src="assets/PGAFiles/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
     </a>
+    <h4 id="course_work_front_page">"MS in Data Analytics at George Washington Univeristy, Course Work"</h4>
   </td>
 </tr>
 <tr>
