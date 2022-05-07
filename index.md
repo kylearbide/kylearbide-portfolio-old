@@ -25,7 +25,9 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <h4 id="course_work_front_page" href="pages/courses.html">MS in Data Analytics at George Washington Univeristy, Course Work</h4>
+    <a href="pages/courses.html">
+      <h4 id="course_work_front_page" href="pages/courses.html">MS in Data Analytics at George Washington Univeristy, Course Work</h4>
+    </a>
   </td>
 </tr>
 <tr>  
