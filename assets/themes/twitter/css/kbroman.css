@@ -29,6 +29,9 @@ a:hover img {
     background-color: #ffffff;
     text-decoration: none;
     border: solid 2px #e3e4fa;
+    transition-duration: 300ms;
+    transition-timing-function: linear;
+    transform: scale(.98);
 }
 
 p.center {
