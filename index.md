@@ -24,6 +24,8 @@ keywords: statistics, data analytics
        <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
   </td>
+</tr>
+<tr>  
   <td class="left">
     <a href="pages/publpics/GolfDataAnalysis.html">
         <img src="assets/PGAFiles/GolfSpiderSized.png" alt="PGA Analysis" title="PGA Analysis"/>
@@ -36,6 +38,8 @@ keywords: statistics, data analytics
         <img src="pages/icons16/GWLogoSized.png" alt="GW Data Analytics" title="GW Data Analytics"/>
     </a>
   </td>
+</tr>
+<tr>
   <td class="left">
     <a href="pages/publpics/baseops.html">
         <img src="pages/icons16/BaseOpsLogoSized.png" alt="Base Operations" title="Base Operations"/>
