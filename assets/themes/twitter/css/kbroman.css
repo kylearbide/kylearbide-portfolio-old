@@ -46,11 +46,11 @@ table.wide td {
 }
 
 tr {
-  border: solid 2px blue;
+  border: solid 2px darkslateblue;
 }
 
 td.left {
-    text-align: left;
+    text-align: center;
 }
 
 td.right {
