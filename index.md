@@ -38,7 +38,7 @@ keywords: statistics, data analytics
   </td>
   <td class="left">
     <a href="pages/publpics/baseops.html">
-      <h4 id="base_ops_front_page">Internship at Base Operations      September 2021 - May 2022</h4>
+      <h4 id="base_ops_front_page">Internship at Base Operations September 2021 - May 2022</h4>
     </a>
   </td>
 </tr>
@@ -50,7 +50,7 @@ keywords: statistics, data analytics
   </td>
   <td class="left">
     <a href="pages/publpics/CryptoTimeSeries.html">
-      <h4 id="time_series_front_page">Time Series Forecasting and        Market Analysis Projects</h4>
+      <h4 id="time_series_front_page">Time Series Forecasting and Market Analysis Projects</h4>
     </a>
   </td>
 </tr>
