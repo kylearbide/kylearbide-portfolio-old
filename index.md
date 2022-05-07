@@ -19,7 +19,7 @@ keywords: statistics, data analytics
 
 <table class="wide">
 <tr>
-  <td class="left">
+  <td class="right">
     <a href="pages/publpics/CryptoTimeSeries.html">
        <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
     </a>
