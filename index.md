@@ -8,7 +8,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="/assets/RESUME_Arbide_Kyle.pdf">Resume</a></li>
+          <li><a href="/assets/resume_cover_letters/RESUME_Arbide_Kyle_May_2022.pdf">Resume</a></li>
           <li><a href="https://github.com/kylearbide">github</a></li>
           <li><a href="https://www.linkedin.com/in/kyle-arbide/">LinkedIn</a></li>
       </ul>
