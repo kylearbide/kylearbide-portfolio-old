@@ -1,6 +1,6 @@
 ---
-layout: frontpage
-title: Broman et al. (1998) Fig 3
+layout: page
+title: Time Series and Forecasting Projects
 ---
 
 <div class="navbar">
@@ -12,8 +12,9 @@ title: Broman et al. (1998) Fig 3
   </div>
 </div>
 
-Broman KW, Murray JC, Sheffield VC, White RL, Weber JL (1998) Comprehensive human genetic maps: Individual
-and sex-specific variation in recombination. Am J Hum Genet 63:861-869
+### <a name="crime"></a>Crime Analysis and Forecasting Term Paper
+
+This paper is a literature review of forecasting methods for Big Data, as they are applied to the field of crime analysis. The paper reviews the time series concepts of 
 [![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/9718341)
 [![pdf (534k)](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/geneticmaps.pdf)
 
