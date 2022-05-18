@@ -16,7 +16,7 @@ title: Time Series and Forecasting Projects
 
 This paper is a literature review of forecasting methods for Big Data, as they are applied to the field of crime analysis. It reviews the concepts of stationarity, seasonality, and trend, for forecasting modeling as well as the best practices for intorducing crime types and spatial granularity into the modeling. The bulk of the paper is spent reviewing studies that applied forecasting models (specifically ARIMA and/or LSTM model), understanding the intricacies in their application, and how they are used to develop actionable insights. 
 
-[![pdf](../icons16/pdf-icon.png)](https://github.com/kylearbide/kylearbide.github.io/blob/master/Assignments/CSCI6444/Term_Paper_Kyle_Arbide_Crime_Forecasting_CSCI6444.pdf)
+[![pdf](../icons16/pdf-icon.png)](https://github.com/kylearbide/kylearbide.github.io/blob/master/Assignments/CSCI6444/Term_Paper_Kyle_Arbide_Crime_Forecasting_CSCI6444.pdf)Full Paper
 
 ### <a name="stock market"></a> Pseudo Random Walk Down Wall Street
 
