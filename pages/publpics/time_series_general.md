@@ -7,7 +7,7 @@ title: Time Series and Forecasting Projects
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="#crime">Crime Forecasting</a></li>
-          <li><a href="iplotCorr.html">next</a></li>
+          <li><a href="#stock market">Stock Market Analysis</a></li>
       </ul>
   </div>
 </div>
