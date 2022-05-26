@@ -3,15 +3,6 @@ layout: frontpage
 title: Base Operations
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="courses.html">prev</a></li>
-          <li><a href="CryptoTimeSeries.html">next</a></li>
-      </ul>
-  </div>
-</div>
-
 <p align="center">
   <img src="/pages/icons16/BaseOpsLogoSized.png" alt="Base Operations" title="Base Operations"/>
 </p>
