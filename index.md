@@ -44,8 +44,8 @@ keywords: statistics, data analytics
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/CryptoTimeSeries.html">
-       <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Crypto Time Series" title="Crypto Time Series"/>
+    <a href="pages/publpics/time_series_general.html">
+       <img src="assets/CryptoFiles/Images/CryptoTimeSeriesNewSmall.png" alt="Time Series" title="Time Series"/>
     </a>
   </td>
   <td class="left">
