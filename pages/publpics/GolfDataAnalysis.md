@@ -20,7 +20,7 @@ As sports data becomes widely available online, the popularity of sports analysi
 
 [Full Report ![Golf](/pages/icons16/pdf-icon.png)](/assets/PGAFiles/PGA_Analysis_Report.pdf)
 [Presentation ![Golf](/pages/icons16/ppt-icon.png)](/assets/PGAFiles/PGA_TOUR_Pres.pdf)
-[Codesheets ![Golf](/pages/icons16/data-icon.png)](https://github.com/kylearbide/PGA_Tour_Analysis)
+[Repository ![Golf](/pages/icons16/data-icon.png)](https://github.com/kylearbide/PGA_Tour_Analysis)
 
 ![GolfDataVisuals](../../assets/PGAFiles/AverageRoundsVis.png)
 
