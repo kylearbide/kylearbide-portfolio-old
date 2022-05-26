@@ -16,20 +16,20 @@ description: Kyle Arbide's Courses
 
 ### <a name="current"></a>Current Courses
 
-#### Intro to Big Data and Analytics (CSCI 6444; Spring, 2022)
+#### Intro to Big Data and Analytics (CSCI 6444; Spring, 2022; Grade: A)
 
 This course was taught by Professor Stephen Kaisler. The objectives of this course included introducing Big Data concepts, issues, and challenges, working with Big Data tools, and understanding advanced analytics including complex problems facing business, society, and engineering. The assignments in this course consisted of Graph Analytics, Clustering & Predictive Analysis, and Text Analytics. For my term paper, I conducted a literature review on how Big Data is used in crime analysis and forecasting.
 
 - [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/CSCI6444)
 - [Term Paper](https://github.com/kylearbide/kylearbide.github.io/tree/master/Assignments/CSCI6444)
 
-#### Database Management Systems for Data Analytics (CSCI 6907; Spring, 2022)
+#### Database Management Systems for Data Analytics (CSCI 6907; Spring, 2022; Grade: A)
 
 This course was taught by Dr. Joel Klein. The learning outcomes for this couse include learning the difference between SQL and NoSQL databases, understanding what database best suit a problem, manipulating data in each type of database, integration of databases into data pipelines, and exploring the benefits of cloud services. The assignments for this course include one project for each MondoDB, PostgresSQL, and Arango databases. For my final project, I tranformed a dataset of reddit posts and comments into a graph representation using ArangoDB and Docker.
 
 - [Project](https://gitlab.com/c6831/2022_spring/kyle_reddit_graph_db)
 
-#### Applied Machine Learning Analysis (EMSE 6575; Spring, 2022)
+#### Applied Machine Learning Analysis (EMSE 6575; Spring, 2022; Grade: A)
 
 This course was taught by Dr. Benjamin Harvey. The learning outcomes for this couse included selecting and applying the most appropriate algorithms to real world data, evaluating the quality of algorithms, and understanding the principals of each algorithm, to better understand where they to and dont apply. The assignment topics consisted of data gathering and processing, regression, classification, unsupervised learning, and deep learning. Our final project explored using machine learning to gain a competitive edge on forecasting stock prices. Some of our strategies for this project included classification algorithms (logistic regression, naive bayes, and random forest), principal component analysis, and k-fold cross validation. 
 
