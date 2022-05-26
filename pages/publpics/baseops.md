@@ -24,11 +24,11 @@ Base Operations helps companies keep their people and operations secure with Mic
 
 **Position Details**
 
-  • Performing descriptive analysis and created customer reports using user interactions through Mixpanel
-  • Participated in the proposal, labeling, and error analysis for an NER campaign using Python and Prodigy
-  • Working on reports, maps, and other data visualizations that describe and interpret crime data in different 
+  - Performing descriptive analysis and created customer reports using user interactions through Mixpanel
+  - Participated in the proposal, labeling, and error analysis for an NER campaign using Python and Prodigy
+  - Working on reports, maps, and other data visualizations that describe and interpret crime data in different 
   locations
-  • Identifying and addressing data quality issues and tracing any error back to its source
-  • Day-to-day includes using EC2 and S3 from AWS, as well as git and GitHub
+  - Identifying and addressing data quality issues and tracing any error back to its source
+  - Day-to-day includes using EC2 and S3 from AWS, as well as git and GitHub
 
  
