@@ -23,7 +23,7 @@ This course was taught by Professor Stephen Kaisler. The objectives of this cour
 - [Assignments](https://github.com/kylearbide/kylearbide.github.io/tree/master/codeSheets/CSCI6444)
 - [Term Paper](https://github.com/kylearbide/kylearbide.github.io/tree/master/Assignments/CSCI6444)
 
-#### Database Management Systems for Data Analytics (CSCI 6907; Spring, 2022; Grade: A)
+#### Database Management Systems for Data Analytics (CSCI 6907; Spring, 2022;        Grade: A)
 
 This course was taught by Dr. Joel Klein. The learning outcomes for this couse include learning the difference between SQL and NoSQL databases, understanding what database best suit a problem, manipulating data in each type of database, integration of databases into data pipelines, and exploring the benefits of cloud services. The assignments for this course include one project for each MondoDB, PostgresSQL, and Arango databases. For my final project, I tranformed a dataset of reddit posts and comments into a graph representation using ArangoDB and Docker.
 
