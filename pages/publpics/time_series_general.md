@@ -8,6 +8,7 @@ title: Time Series and Forecasting Projects
       <ul class="nav">
           <li><a href="#crime">Crime Forecasting</a></li>
           <li><a href="#stock market">Stock Market Analysis</a></li>
+          <li><a href="#crypto time series">Cryptocurrency Analysis</a></li>
       </ul>
   </div>
 </div>
@@ -24,7 +25,7 @@ How well can machine learning assist us with understanding and prediciting the s
 
 [Repository ![github](../icons16/github-icon.png)](https://github.com/kylearbide/Stock-Market-Analysis-EMSE6575) 
 
-### Comparitave Analysis on Cryptocurrencies and S&P500 Market Trends
+### <a name="crypto time series"></a> Comparitave Analysis on Cryptocurrencies and S&P500 Market Trends
 
 This analysis dives in depth on the market trends of cryptocurrencies, specifically Bitcoin Ethereum, and Dogecoin. We also look into the S&P500, with the goal of determining if cryptocurries can act as a safehaven from big market downturns. Our presentation and report go in depth on this topic, but below you will find a short summary of our analyses and results.
 
