@@ -42,6 +42,18 @@ keywords: statistics, data analytics
     </a>
   </td>
 </tr>
+<tr>  
+  <td class="left">
+    <a href="pages/publpics/arango.html">
+        <img src="pages/icons16/Arango_DB_sized.png" alt="ArangoDB" title="ArangoDB"/>
+    </a>
+  </td>
+  <td class="left">
+    <a href="pages/publpics/arango.html">
+      <h4 id="arangodb_front_page">ArangoDB Graph Database Projects</h4>
+    </a>
+  </td>
+</tr>
 <tr>
   <td class="left">
     <a href="pages/publpics/time_series_general.html">
