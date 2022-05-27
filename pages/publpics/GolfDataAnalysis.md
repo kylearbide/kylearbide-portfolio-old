@@ -2,16 +2,6 @@
 layout: frontpage
 title: PGA TOUR ANALYSIS
 ---
-
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="CryptoTimeSeries.html">prev</a></li>
-          <li><a href="baseops.html">next</a></li>
-      </ul>
-  </div>
-</div>
-
 ## <a name="PGA Report Abstract"></a>PGA Tour Analysis
 
 #### Abstract
