@@ -16,13 +16,13 @@ title: Time Series and Forecasting Projects
 
 This paper is a literature review of forecasting methods for Big Data, as they are applied to the field of crime analysis. It reviews the concepts of stationarity, seasonality, and trend, for forecasting modeling as well as the best practices for intorducing crime types and spatial granularity into the modeling. The bulk of the paper is spent reviewing studies that applied forecasting models (specifically ARIMA and/or LSTM model), understanding the intricacies in their application, and how they are used to develop actionable insights. 
 
-[![pdf](../icons16/pdf-icon.png)](https://github.com/kylearbide/kylearbide.github.io/blob/master/Assignments/CSCI6444/Term_Paper_Kyle_Arbide_Crime_Forecasting_CSCI6444.pdf)Full Paper
+[Full Paper ![pdf](../icons16/pdf-icon.png)](https://github.com/kylearbide/kylearbide.github.io/blob/master/Assignments/CSCI6444/Term_Paper_Kyle_Arbide_Crime_Forecasting_CSCI6444.pdf)
 
 ### <a name="stock market"></a> Pseudo Random Walk Down Wall Street
 
 How well can machine learning assist us with understanding and prediciting the stock market? This is the question I explored with Patrick O'connor and Asare Buahin for our Final Project in EMSE6575. The project uses daily stock market trading data, and applies a variety of regression and classification algorithms, using lag prices of stock tickers as features for predicting Apple's stock price. To enhance our feature selection, we applied PCA to a larger sample of stocks across multiple industries with the goal of feeding our models a broad view of market trends. The final algorithm used features derived from this PCA to fit a Random Forest classifier, with target classes of -1 and 1 for a drop or gain in the stock price of AAPL.
 
-[![github](../icons16/github-icon.png)](https://github.com/kylearbide/Stock-Market-Analysis-EMSE6575) Repository
+[Repository ![github](../icons16/github-icon.png)](https://github.com/kylearbide/Stock-Market-Analysis-EMSE6575) 
 
 ### Comparitave Analysis on Cryptocurrencies and S&P500 Market Trends
 
