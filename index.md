@@ -49,7 +49,7 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="left">
-    <a href="pages/publpics/CryptoTimeSeries.html">
+    <a href="pages/publpics/time_series_general.html">
       <h4 id="time_series_front_page">Time Series Forecasting and Market Analysis Projects</h4>
     </a>
   </td>
