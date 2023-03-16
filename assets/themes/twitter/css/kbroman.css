@@ -7,11 +7,11 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    color: slateblue;
 }
 
 a {
-    color: #slateblue;
+    color: slateblue;
 }
 
 a:hover {
@@ -45,8 +45,13 @@ table.wide td {
     padding-bottom: 20px;
 }
 
-tr {
-  border: solid 5px midnightblue;
+table {
+    border-collapse: collapse;
+    border: none;
+}
+  
+th, td {
+    border: none;
 }
 
 td.left {
